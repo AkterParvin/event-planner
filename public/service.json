@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "headline": "Conferences and Seminars",
+    "subheading": "Elevate Knowledge Sharing",
+    "title": "Host Successful Conferences",
+    "detail": "Do you need to gather the members of an association or community to cultivate a richer sense of belonging or engage them in a common cause? Get the strategic event expertise you need to rapidly create an impactful community event or association event. From launching an extraordinary inaugural event to reimagining a long-running member experience, our knowledgeable event professionals will capture your vision and bring you measurable results. Shiloh’s talented experts unite with you to become your event planning team, fueling your success with the latest strategies, comprehensive project plans, quality service, and unparalleled support.",
+    "customer_feedback": [
+      {
+        "name": "Alex Parker",
+        "comment": "Page-On made our recent conference a huge success. Their attention to detail was impressive."
+      },
+      {
+        "name": "Emma Bennett",
+        "comment": "The professionalism of Team Page-On is unmatched. They helped us create a memorable conference."
+      },
+      {
+        "name": "Daniel Adams",
+        "comment": "Page-On's expertise in conference planning is outstanding. Our attendees were thrilled."
+      }
+    ],
+    "image": "https://i.ibb.co/bb3Hps5/1.png",
+    "thumbnail_img": "https://i.ibb.co/cLrB20S/2.png",
+    "price": 15000
+  },
+  {
+    "id": 2,
+    "headline": "Trade Shows and Expos",
+    "subheading": "Craft an environment to magnify your message",
+    "title": "Exhibit at Trade Shows",
+    "detail": "Ready to showcase your newest product to investors, customers, and influencers? Get the strategic event expertise you need to create an impactful product launch. From launching groundbreaking innovations to building awareness of new products for an established brand, our knowledgeable event professionals will capture your vision and bring you measurable results. Shiloh’s talented experts unite with you to become your product launch planning team, fueling your success with the latest strategies, comprehensive project plans, quality service, and unparalleled support.",
+    "customer_feedback": [
+      {
+        "name": "Grace Turner",
+        "comment": "Page-On made our expo participation a breeze. Their booth design was a showstopper."
+      },
+      {
+        "name": "Mark Miller",
+        "comment": "I'm impressed with Page-On's trade show expertise. They helped us stand out in a crowded expo."
+      },
+      {
+        "name": "Olivia White",
+        "comment": "Page-On's attention to detail in expo planning is remarkable. We had a successful event."
+      }
+    ],
+    "image": "https://i.ibb.co/g41gGGX/3.png",
+    "thumbnail_img": "https://i.ibb.co/YckJxVD/4.png",
+    "price": 20000
+  },
+  {
+    "id": 3,
+    "headline": "Team Building Workshops",
+    "subheading": "Strengthen Your Team",
+    "title": "Enhance Team Dynamics",
+    "detail": "Ready to showcase your newest product to investors, customers, and influencers? Get the strategic event expertise you need to create an impactful product launch. From launching groundbreaking innovations to building awareness of new products for an established brand, our knowledgeable event professionals will capture your vision and bring you measurable results. Shiloh’s talented experts unite with you to become your product launch planning team, fueling your success with the latest strategies, comprehensive project plans, quality service, and unparalleled support.",
+    "customer_feedback": [
+      {
+        "name": "Lucas Carter",
+        "comment": "Page-On's team-building workshop was fantastic. Our team feels more connected and motivated."
+      },
+      {
+        "name": "Sophia Davis",
+        "comment": "The team-building session by Page-On was a game-changer. We're more cohesive now."
+      },
+      {
+        "name": "Jack Robinson",
+        "comment": "Page-On's facilitators are top-notch. Our team-building day was a great success."
+      }
+    ],
+    "image": "https://i.ibb.co/Ybt3qV8/5.png",
+    "thumbnail_img": "https://i.ibb.co/xYhPBCr/6.png",
+    "price": 25000
+  },
+  {
+    "id": 4,
+    "headline": "Sales Kickoff",
+    "subheading": "Motivate your team for the year ahead",
+    "title": "Plan A Sales Kickoff",
+    "detail": "Do you need a powerful program to train and motivate your sales organization for the year ahead? Get the strategic event expertise you need to rapidly design an impactful and unforgettable sales kickoff. From launching an extraordinary inaugural event to reimagining a long-running sales kickoff experience, our knowledgeable event professionals will capture your vision and bring you measurable results. Shiloh’s talented experts unite with you to become your SKO planning team, fueling your success with the latest strategies, comprehensive project plans, quality service, and unparalleled support.",
+    "customer_feedback": [
+      {
+        "name": "Rachel Cooper",
+        "comment": "Page-On made our award ceremony exceptional. Their attention to detail and creativity were impressive."
+      },
+      {
+        "name": "David Foster",
+        "comment": "I'm grateful for Page-On's expertise in award ceremonies. They made our event a grand success."
+      },
+      {
+        "name": "Oliver Wright",
+        "comment": "Page-On's team is outstanding. Our award ceremony was a memorable and classy affair."
+      }
+    ],
+    "image": "https://i.ibb.co/vqfzjPJ/19.png",
+    "thumbnail_img": "https://i.ibb.co/Zm6ZRsK/20.png",
+    "price": 30000
+  },
+  {
+    "id": 5,
+    "headline": "Corporate VIP Event",
+    "subheading": "Host a red carpet-worthy experience",
+    "title": "Plan VIP Team Retreats",
+    "detail": "Do you need to create an exclusive white glove experience for your executives or other VIP group? Get the strategic event expertise you need to rapidly design a premium corporate event that makes your VIP attendees feel valued and special. From sourcing a luxurious setting to personalizing every detail, our knowledgeable event professionals will capture your vision and bring you measurable results. Shiloh’s talented experts unite with you to become your event planning team, fueling your success with the latest strategies, comprehensive project plans, quality service, and unparalleled support.",
+    "customer_feedback": [
+      {
+        "name": "Isabella Taylor",
+        "comment": "Our team retreat organized by Page-On was incredible. We found new inspiration in the outdoors."
+      },
+      {
+        "name": "Nathan Johnson",
+        "comment": "Page-On's outdoor retreat was a much-needed break from the daily grind. Highly recommended."
+      },
+      {
+        "name": "Sophie Carter",
+        "comment": "I can't thank Page-On enough for the refreshing outdoor team retreat. It was truly rejuvenating."
+      }
+    ],
+    "image": "https://i.ibb.co/2qS1yFx/7.png",
+    "thumbnail_img": "https://i.ibb.co/cvgtxDL/8.png",
+    "price": 35000
+  },
+  {
+    "id": 6,
+    "headline": "Virtual Events",
+    "subheading": "Ensure a smooth and stress-free event day",
+    "title": "Host Interactive Virtual Events",
+    "detail": "Ready to gather customers, partners, and prospects for a jaw-dropping, loyalty-inducing brand experience? Get the strategic event expertise you need to rapidly create an impactful user conference. From launching an extraordinary inaugural event to reimagining a long-running conference experience, our knowledgeable event professionals will capture your vision and bring you measurable results. Shiloh’s talented experts unite with you to become your user conference planning team, fueling your success with the latest strategies, comprehensive project plans, quality service, and unparalleled support.",
+    "customer_feedback": [
+      {
+        "name": "Ethan Williams",
+        "comment": "Page-On's virtual event platform was user-friendly and engaging. They made our online conference a hit."
+      },
+      {
+        "name": "Ava Adams",
+        "comment": "I was impressed by Page-On's ability to create a virtual event that felt like a real-life experience. Great job!"
+      },
+      {
+        "name": "Lucas Parker",
+        "comment": "Page-On's virtual event solutions are top-notch. They kept our global audience engaged and connected."
+      }
+    ],
+    "image": "https://i.ibb.co/9mD7Sq3/10.png",
+    "thumbnail_img": "https://i.ibb.co/sH4xNNL/9.png",
+    "price": 40000
+  },
+  {
+    "id": 7,
+    "headline": "User Conference",
+    "subheading": "Inspire your customers with thought leadership",
+    "title": "Plan A User Conference",
+    "detail": "Ready to gather customers, partners, and prospects for a jaw-dropping, loyalty-inducing brand experience? Get the strategic event expertise you need to rapidly create an impactful user conference. From launching an extraordinary inaugural event to reimagining a long-running conference experience, our knowledgeable event professionals will capture your vision and bring you measurable results. Shiloh’s talented experts unite with you to become your user conference planning team, fueling your success with the latest strategies, comprehensive project plans, quality service, and unparalleled support.",
+    "customer_feedback": [
+      {
+        "name": "Jessica Taylor",
+        "comment": "Page-On exceeded our expectations and turned our conference day into a success. It was perfect!"
+      },
+      {
+        "name": "Matthew Evans",
+        "comment": "I can't thank Page-On enough for making our big day stress-free and magical. Highly recommended!"
+      },
+      {
+        "name": "Sophie Anderson",
+        "comment": "Page-On's attention to detail and creativity made our arrangement one for the books. We're forever grateful."
+      }
+    ],
+    "image": "https://i.ibb.co/Gsxnwn6/14.png",
+    "thumbnail_img": "https://i.ibb.co/pQSNPN2/13.png",
+    "price": 45000
+  },
+  {
+    "id": 8,
+    "headline": "Trade Show",
+    "subheading": "Celebrate the Season",
+    "title": "Build Buzz about your latest product",
+    "detail": "Ready to build brand exposure, credibility, and your lead count at an industry trade show? Get the strategic event expertise you need to rapidly create an impactful and unforgettable trade show booth or activation. From planning an extraordinary new booth presence to designing a buzz-worthy brand activation, our knowledgeable event professionals will capture your vision and bring you measurable results. Shiloh’s talented experts unite with you to become your trade show planning team, fueling your success with the latest strategies, comprehensive project plans, quality service, and unparalleled support.",
+    "customer_feedback": [
+      {
+        "name": "Daniel Walker",
+        "comment": "Page-On's attention to detail and creativity made our arrangement one for the books. We're forever grateful."
+      },
+      {
+        "name": "Megan Foster",
+        "comment": "Page-On's attention to detail and creativity made our arrangement one for the books. We're forever grateful."
+      },
+      {
+        "name": "Liam Turner",
+        "comment": "I can't thank Page-On enough for the fantastic holiday party. It brought our team closer together."
+      }
+    ],
+    "image": "https://i.ibb.co/Fs82vy7/11.png",
+    "thumbnail_img": "https://i.ibb.co/d2s0kCW/12.png",
+    "price": 50000
+  },
+  {
+    "id": 9,
+    "headline": "Incentive Event",
+    "subheading": "Reward top performers with an incredible experience",
+    "title": "Organize Successful Incentive Event",
+    "detail": "Do you need to plan a destination experience to reward top employees and motivate them for the year ahead? Get the strategic event expertise you need to plan an unforgettable incentive event experience that inspires employee loyalty and achievement. From sourcing a luxurious setting to personalizing every detail, our knowledgeable event professionals will capture your vision and bring you measurable results. Shiloh’s talented experts unite with you to become your event planning team, fueling your success with the latest strategies, comprehensive project plans, quality service, and unparalleled support.",
+    "customer_feedback": [
+      {
+        "name": "Sophia Reed",
+        "comment": "Page-On's charity gala was not only beautiful but also raised significant funds for our cause. Impressive!"
+      },
+      {
+        "name": "Michael Turner",
+        "comment": "I'm grateful for Page-On's dedication to our charity gala. It was a heartwarming and successful event."
+      },
+      {
+        "name": "Grace Mitchell",
+        "comment": "Page-On's attention to detail in organizing our charity gala was exceptional. We couldn't be happier."
+      }
+    ],
+    "image": "https://i.ibb.co/j3TKt1w/15.png",
+    "thumbnail_img": "https://i.ibb.co/Fxn17ht/16.png",
+    "price": 55000
+  }
+]

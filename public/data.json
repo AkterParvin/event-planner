@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/tK94sv4/16.png",
+    "title": "Providing Clean Drinking Water",
+    "category": "Health",
+    "category_bg": "#2611B2",
+    "card_bg": "#CDE2F8",
+    "text_button_bg": "#89C2FA",
+    "description": "Access to clean and safe drinking water is a basic human right, yet millions of people around the world lack it. Your generous donation can help us install water purification systems in underserved communities, ensuring that families have access to clean and safe drinking water. Together, we can prevent waterborne diseases and improve the quality of life for countless individuals.",
+    "price":200
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/VQKBCNw/pict-large.jpg",
+    "title": "Empowering Underprivileged Children",
+    "category": "Education",
+    "category_bg": "#910D00",
+    "card_bg": "#FDDCD8",
+    "text_button_bg": "#E9999F",
+    "description": "Education is the key to breaking the cycle of poverty. With your support, we can provide scholarships, textbooks, and educational resources to underprivileged children who dream of a brighter future. Your donation will empower them to pursue their dreams, gain valuable knowledge, and create a better life for themselves and their communities.",
+    "price":200
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/xJDSZYy/15.png",
+    "title": "Warmth for Winter",
+    "category": "Clothing",
+    "category_bg": "#153915",
+    "card_bg": "#DDF2D6",
+    "text_button_bg": "#A7F0A0",
+    "description": "Winter can be harsh for those without warm clothing. Your contribution to our clothing drive can make a significant impact. We distribute winter jackets, blankets, and essential clothing items to individuals and families in need. By donating, you provide warmth and comfort to those facing the cold months with limited resources.",
+    "price":200
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/yRn5QxJ/20.png",
+    "title": "Nourishing Meals for All",
+    "category": "Food",
+    "category_bg": "#540678",
+    "card_bg": "#FCE0FD",
+    "text_button_bg": "#E199F0",
+    "description": "Hunger is a pressing issue worldwide. Your generous support helps us run community kitchens that provide nutritious meals to homeless individuals, low-income families, and vulnerable populations. By contributing, you play a vital role in ensuring that everyone has access to nourishing food, reducing hunger, and improving lives.",
+    "price":200
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/44Jd9YM/download.jpg",
+    "title": "Supporting Maternal Health",
+    "category": "Health",
+    "category_bg": "#2611B2",
+    "card_bg": "#CDE2F8",
+    "text_button_bg": "#89C2FA",
+    "description": "Pregnancy and childbirth should be safe and joyous experiences. Your donation can help us provide essential maternal health care services to expectant mothers in underserved areas. By contributing, you ensure that pregnant women receive proper prenatal care, access to medical facilities, and support for healthy pregnancies.","price":200
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/ZTXFYcC/11.png",
+    "title": "Promoting Literacy",
+    "category": "Education",
+    "category_bg": "#910D00",
+    "card_bg": "#FDDCD8",
+    "text_button_bg": "#E9999F",
+    "description": "Access to books and education is a powerful tool for personal growth and development. Your donation can help us establish community libraries, provide books, and promote literacy in underserved areas. By contributing, you support a love for reading and learning, opening doors to knowledge and empowerment.",
+    "price":200
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/XzdZ2N6/1.png",
+    "title": "Emergency Medical Aid",
+    "category": "Health",
+    "category_bg": "#2611B2",
+    "card_bg": "#CDE2F8",
+    "text_button_bg": "#89C2FA",
+    "description": "In emergencies, timely medical aid can save lives. Your generous donation allows us to provide emergency medical assistance to communities affected by disasters or crises. By contributing, you ensure that medical teams have the resources and supplies needed to respond swiftly and save lives.",
+    "price":200
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/HCZKnwq/21.png",
+    "title": "Educational Opportunities",
+    "category": "Education",
+    "category_bg": "#910D00",
+    "card_bg": "#FDDCD8",
+    "text_button_bg": "#E9999F",
+    "description": "Education should be a right, not a privilege. Your support enables us to create educational opportunities for children and adults alike. By donating, you help build schools, provide scholarships, and offer vocational training, ensuring that individuals have access to quality education and brighter futures.",
+    "price":200
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/Lk9vX91/5.png",
+    "title": "Healthy Meals for Seniors",
+    "category": "Food",
+    "category_bg": "#540678",
+    "card_bg": "#FCE0FD",
+    "text_button_bg": "#E199F0",
+    "description": "Seniors deserve nutritious and balanced meals for their well-being. Your contribution to our meal program supports the delivery of healthy meals to elderly individuals in need. By donating, you provide nourishment, comfort, and companionship to seniors, enhancing their quality of life.",
+    "price":200
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/mTqkL05/18.png",
+    "title": "Access to Clean Sanitation",
+    "category": "Health",
+    "category_bg": "#2611B2",
+    "card_bg": "#CDE2F8",
+    "text_button_bg": "#89C2FA",
+    "description": "Access to clean sanitation facilities is essential for public health. Your donation helps us build clean and safe toilets in communities that lack proper sanitation. By contributing, you improve hygiene, prevent diseases, and ensure a healthier environment for all.",
+    "price":200
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/vLYs7n9/12.png",
+    "title": "Education for All",
+    "category": "Education",
+    "category_bg": "#910D00",
+    "card_bg": "#FDDCD8",
+    "text_button_bg": "#E9999F",
+    "description": "The digital divide should not limit access to education. Your support allows us to provide e-learning resources and devices to students who lack access to traditional classrooms. By donating, you bridge the gap and empower individuals to pursue education from anywhere.",
+    "price":200
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/NL17Mdn/9.png",
+    "title": "Nutrition for Children",
+    "category": "Food",
+    "category_bg": "#540678",
+    "card_bg": "#FCE0FD",
+    "text_button_bg": "#E199F0",
+    "description": "Malnutrition is a pressing issue among children in underserved communities. Your contribution helps us run nutrition programs that provide balanced meals to young ones. By donating, you support growth, development, and healthier futures for children in need.",
+    "price":200
+  }
+]
